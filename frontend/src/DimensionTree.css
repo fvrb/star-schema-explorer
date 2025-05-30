@@ -1,0 +1,58 @@
+.dimension-tree {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .section-title {
+    font-weight: bold;
+    font-size: 1.2em;
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+  
+  .checkbox-label {
+    display: block;
+    margin: 8px 0;
+    padding-left: 40px;
+  }
+  
+  .checkbox-input {
+    margin-right: 10px;
+  }
+  
+  .checkbox-text {
+    font-size: 1em;
+  }
+  
+  .measures-section details {
+    margin-bottom: 15px;
+  }
+  
+  .dimensions-section details {
+    margin-bottom: 15px;
+  }
+  
+  .dimension-attributes-title {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin-left: 20px;
+  }
+  
+  .dimension-group details {
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  .dimension-group summary {
+    font-weight: bold;
+    font-size: 1.1em;
+    padding-left: 40px;
+  }
+  
+  .dimension-attributes {
+    margin-top: 10px;
+    padding-left: 40px; 
+    border-radius: 5px;
+    padding: 10px;
+  }
+  

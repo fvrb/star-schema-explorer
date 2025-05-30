@@ -1,0 +1,20 @@
+.fact-table-selector {
+    margin-bottom: 20px;
+    padding-left: 20px;
+}
+
+.fact-table-selector h2 {
+    margin-bottom: 10px;
+    font-size: 1.2em;
+}
+
+.fact-radio-label {
+    display: block;
+    margin-bottom: 8px;
+    cursor: pointer;
+    padding-left: 20px;
+}
+
+.fact-radio-label input {
+    margin-right: 8px;
+}
